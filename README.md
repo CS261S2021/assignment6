@@ -1,6 +1,8 @@
 # Assignment 6
 
-In this assignment, you will implement a complete heap-based priority queue.  In addition to the description of your task below, there is thorough documentation in the file `pq.c` describing how each function you'll write should behave.
+Please upload both your updated pq.c file and a README.md file describing your solution.
+
+In this assignment, you will implement a complete heap-based priority queue.  In addition to the description of your task below, there is thorough documentation in the file `pq.c` describing how each function you'll write should behave. Please also upload a readme.txt, or a readme.md file explaining your work. 
 
 Your work for this assignment will be limited to the file `pq.c`.  In other files, you are provided with some additional starter code that defines the structures you'll be working with and prototypes functions you'll be using and writing.  *It's important that you don't modify the function prototypes.*  To help grade your assignment, we will use a set of unit tests that assume these functions exist and have the same prototypes that are defined in the starter code.  If you change the prototypes, it will cause the unit tests to break, and your grade for the assignment will likely suffer.  Feel free, however, to write any additional functions you need to accomplish the tasks described below.
 
